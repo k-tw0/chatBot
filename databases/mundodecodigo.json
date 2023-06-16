@@ -1,0 +1,19 @@
+{
+  "preguntas": [
+    {
+      "texto": "¿Qué lenguajes de programación son populares para el desarrollo web?",
+      "respuesta": "Algunos lenguajes populares para el desarrollo web son JavaScript, Python y Ruby.",
+      "codigo": "// Declaración de variable\nint myVariable = 42;\nfunction hola(){\nif(myVariable == 'hola'){\n \tmyVariable = 'conc'; \n}\nconsole.log(myVariable);\nstring hola = 'wtf'; \n"
+    },
+    {
+      "texto": "¿Cuál es la diferencia entre Frontend y Backend?",
+      "respuesta": "El Frontend se encarga de la parte visual y la interacción con el usuario en un sitio web, mientras que el Backend se encarga de la lógica y la gestión de datos del sitio.",
+      "codigo": "`\n// Declaración de variable\nint myVariable = 41;function hola(){if ->.[-===-0923}"
+    },
+    {
+      "texto": "¿Cuál es la mejor forma de organizar un proyecto de desarrollo?",
+      "respuesta": "La mejor forma de organizar un proyecto de desarrollo es utilizar una metodología ágil, como Scrum o Kanban, y dividir el proyecto en tareas más pequeñas.",
+      "codigo": " Declaración de variable\nint myVariable = 43;\n```"
+    }
+  ]
+}

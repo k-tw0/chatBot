@@ -1,0 +1,17 @@
+{
+    "preguntas": [
+      {
+        "texto": "¿Cuáles son algunos consejos para hacer presentaciones efectivas?",
+        "respuesta": "Algunos consejos para hacer presentaciones efectivas incluyen practicar antes, utilizar un diseño limpio y atractivo, utilizar ejemplos y gráficos para ilustrar puntos clave, y mantener el contacto visual con la audiencia."
+      },
+      {
+        "texto": "¿Cuál es la duración ideal para una presentación?",
+        "respuesta": "La duración ideal para una presentación depende del contexto, pero generalmente es recomendable mantenerse dentro de un rango de tiempo establecido, como 10-15 minutos para presentaciones cortas o 30-45 minutos para presentaciones más largas."
+      },
+      {
+        "texto": "¿Cómo puedo superar el miedo escénico al hacer una presentación?",
+        "respuesta": "Algunas técnicas para superar el miedo escénico al hacer una presentación incluyen practicar con anticipación, respirar profundamente para relajarse, visualizar el éxito de la presentación y recordar que el público está allí para apoyarte."
+      }
+    ]
+  }
+  

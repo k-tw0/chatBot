@@ -1,0 +1,22 @@
+{
+  "preguntas": [
+    {
+      "texto": "¿Cuáles son los principios fundamentales del diseño gráfico?",
+      "respuesta": "Algunos principios fundamentales del diseño gráfico son la alineación, la jerarquía visual, el contraste, la repetición y la simplicidad.",
+      "videos": [
+        "0605(1).mp4",
+        "0605(1).mp4",
+        "0605(1).mp4"
+      ]
+      
+    },
+    {
+      "texto": "¿Qué colores son recomendables para transmitir diferentes emociones?",
+      "respuesta": "Los colores cálidos como el rojo y el naranja suelen transmitir energía y pasión, mientras que los colores fríos como el azul y el verde transmiten calma y serenidad. Sin embargo, el impacto emocional del color puede variar según la cultura y las experiencias individuales."
+    },
+    {
+      "texto": "¿Cuáles son las tendencias de diseño gráfico más populares actualmente?",
+      "respuesta": "Algunas tendencias de diseño gráfico populares actualmente incluyen el diseño minimalista, el uso de fuentes grandes y llamativas, el uso de ilustraciones personalizadas y el diseño centrado en la experiencia del usuario."
+    }
+  ]
+}

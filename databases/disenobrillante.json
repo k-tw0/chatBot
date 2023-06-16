@@ -1,0 +1,16 @@
+{
+  "preguntas": [
+    {
+      "texto": "¿Cuáles son las ventajas de la educación en línea?",
+      "respuesta": "Algunas ventajas de la educación en línea son la flexibilidad de horarios, la accesibilidad desde cualquier lugar, la posibilidad de acceder a una variedad de cursos y recursos, y la oportunidad de desarrollar habilidades tecnológicas."
+    },
+    {
+      "texto": "¿Cuáles son las mejores estrategias de estudio?",
+      "respuesta": "Algunas estrategias de estudio efectivas incluyen establecer un horario de estudio regular, organizar el material de estudio, utilizar técnicas de resumen y esquematización, hacer pausas regulares y practicar la autoevaluación."
+    },
+    {
+      "texto": "¿Cuáles son las habilidades más importantes para el éxito educativo?",
+      "respuesta": "Algunas habilidades importantes para el éxito educativo incluyen la capacidad de organización, la autodisciplina, la capacidad de gestión del tiempo, la resolución de problemas y la comunicación efectiva."
+    }
+  ]
+}

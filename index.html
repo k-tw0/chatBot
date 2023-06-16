@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edicion web</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/themes/prism.min.css"
+    />
+
+    <link rel="stylesheet" href="style/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="body">
+        <div class="menu-toggle">
+          <span class="icon">
+            <i class="fas fa-cog"></i>
+          </span>
+        </div>
+        <div class="menu-options">
+          <ul>
+            <li class="li">
+              <p class="area-title" id="versionTitle">Version: Beta 0.1</p>
+            </li>
+            <div class="dropdown" id="dropdown">
+              <div class="dropdown-trigger">
+                <button
+                  id="droppear"
+                  class="button"
+                  aria-haspopup="true"
+                  aria-controls="dropdown-menu"
+                >
+                  <span id="selected-option">Presentacion</span>
+                  <span class="icon is-small">
+                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                  </span>
+                </button>
+              </div>
+              <div class="dropdown-menu" id="dropdown-menu" role="menu">
+                <div class="dropdown-content" id="dropdown-content">
+                  <a class="dropdown-item" href="#"></a>
+                  <a class="dropdown-item" href="#"></a>
+                  <a class="dropdown-item" href="#"></a>
+                  <a class="dropdown-item" href="#"></a>
+                  <a class="dropdown-item" href="#"></a>
+                </div>
+              </div>
+            </div>
+            <hr class="menu-divider" />
+            <li class="li">
+              <p class="area-title" id="preguntasTitle">Preguntas</p>
+            </li>
+            <nav class="panel">
+              <a class="panel-block"> bulma </a>
+              <a class="panel-block"> marksheet </a>
+              <a class="panel-block"> minireset.css </a>
+              <a class="panel-block"> jgthms.github.io </a>
+              <a class="panel-block"> daniellowtw/infboard </a>
+              <a class="panel-block"> mojs </a>
+            </nav>
+            <hr class="menu-divider" />
+            <li class="li">
+              <p class="area-title" id="cuentasTitle">Cuentas</p>
+            </li>
+            <nav class="panel">
+              <div class="panel-block">
+                <p class="control has-icons-left">
+                  <input
+                    class="input"
+                    type="text"
+                    id="search-input"
+                    placeholder="Search"
+                  />
+                  <span class="icon is-left">
+                    <i class="fas fa-search" aria-hidden="true"></i>
+                  </span>
+                </p>
+              </div>
+              <div id="question-list"></div>
+              <div id="category-select"></div>
+            </nav>
+          </ul>
+        </div>
+        <div class="card console">
+          <div class="card-content">
+            <p class="console-text"></p>
+          </div>
+          <div class="chat-container">
+            <div id="chat-messages" class="chat-messages">
+              <!-- Aquí se mostrarán los mensajes del chat -->
+            </div>
+          </div>
+          <div class="chat-input">
+            <div class="textarea-container">
+              <textarea
+                type="text"
+                id="user-input"
+                placeholder="Escribe un mensaje..."
+              ></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="module"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/prism.min.js"></script>
+
+    <script type="module" src="cfg/config.js"></script>
+    <script type="module" src="ap.js"></script>
+    <script src="designMagic.js"></script>
+
+    <script src="author.js"></script>
+  </body>
+</html>

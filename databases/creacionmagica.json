@@ -1,0 +1,16 @@
+{
+  "preguntas": [
+    {
+      "texto": "¿Cuáles son los principales materiales de construcción utilizados en la industria?",
+      "respuesta": "Algunos de los principales materiales de construcción utilizados en la industria son el concreto, el acero, la madera, el vidrio y los materiales compuestos."
+    },
+    {
+      "texto": "¿Cuáles son los pasos básicos para construir una casa?",
+      "respuesta": "Los pasos básicos para construir una casa incluyen la preparación del terreno, la cimentación, la construcción de los muros y techos, la instalación de sistemas eléctricos y de plomería, y los acabados finales como pintura y revestimientos."
+    },
+    {
+      "texto": "¿Cuáles son los requisitos legales y de seguridad en la construcción?",
+      "respuesta": "Los requisitos legales y de seguridad en la construcción varían según el país y la región, pero suelen incluir permisos de construcción, normas de construcción, medidas de seguridad en el lugar de trabajo y regulaciones ambientales."
+    }
+  ]
+}

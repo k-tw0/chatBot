@@ -1,0 +1,52 @@
+{
+  "preguntas": [
+    {
+      "texto": "Hola",
+      "respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+      "texto": "¿Cómo estás?",
+      "respuesta": "Estoy bien, ¡gracias por preguntar!"
+    },
+    {
+      "texto": "¿Cuál es tu nombre?",
+      "respuesta": "Me llamo ChatBot. ¿En qué puedo ayudarte?"
+    },
+    {
+      "texto": "¿Cuál es tu función como chatbot?",
+      "respuesta": "Mi objetivo es proporcionar respuestas útiles y relevantes según la información y el conocimiento que he adquirido durante mi entrenamiento con una amplia gama de datos."
+    },
+    {
+      "texto": "¿Cómo puedo utilizar tus servicios?",
+      "respuesta": "Puedes utilizar mis servicios simplemente interactuando conmigo a través de la plataforma en la que estamos conversando. Puedes hacer preguntas, plantear problemas o solicitar información sobre diversos temas."
+    },
+    {
+      "texto": "¿Puedes proporcionarme información sobre un tema específico?",
+      "respuesta": "¡Por supuesto! Estoy aquí para brindar información sobre una amplia variedad de temas."
+    },
+    {
+      "texto": "¿Cuál es la diferencia entre un chatbot y un asistente virtual?",
+      "respuesta": "Mientras que los chatbots se centran en la interacción y respuestas basadas en texto, los asistentes virtuales son chatbots más avanzados que pueden ofrecer una gama más amplia de servicios y realizar tareas más complejas para brindar una experiencia de usuario más completa."
+    },
+    {
+      "texto": "¿Cómo puedo mejorar mi experiencia de interacción contigo?",
+      "respuesta": "Sé claro y específico, divide las preguntas complejas, proporciona contexto adicional, solicita aclaraciones si es necesario, sé paciente, verifica la información y explora diferentes temas."
+    },
+    {
+      "texto": "¿Qué tipo de preguntas puedo hacerte?",
+      "respuesta": "Preguntas de conocimiento general, explicaciones y definiciones, ayuda con tareas y problemas, recomendaciones y consejos, curiosidades y trivialidades."
+    },
+    {
+      "texto": "¿Puedes ayudarme a resolver problemas técnicos?",
+      "respuesta": "Sí, puedo ayudarte a resolver problemas técnicos en la medida de mis capacidades. Si tienes algún problema relacionado con la tecnología, software, hardware u otros aspectos técnicos, puedes plantearlo y haré todo lo posible para brindarte orientación y asistencia."
+    },
+    {
+      "texto": "¿Cuál es tu nivel de precisión al responder preguntas?",
+      "respuesta": "Mi objetivo es proporcionar respuestas útiles y relevantes en función del conocimiento disponible de un ser humano. Sin embargo, es importante tener en cuenta que mi nivel de precisión puede variar dependiendo de la naturaleza de la pregunta y la información específica requerida."
+    },
+    {
+      "texto": "¿Puedes proporcionarme ejemplos de preguntas comunes que recibes?",
+      "respuesta": "Preguntas generales: ¿Cuál es la capital de Francia?, ¿Cuántos planetas hay en el sistema solar?, ¿Cuál es la fórmula química del agua? Preguntas de ayuda tecnológica: ¿Cómo puedo restablecer la contraseña de mi cuenta de correo electrónico? ¿Cuál es la mejor manera de proteger mi computadora contra virus y malware? ¿Cómo puedo solucionar problemas de conexión a Internet en mi dispositivo?"
+    }
+  ]
+}
